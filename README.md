@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on various Cyber Security & Utility Tools<br>👯 I’m looking to collaborate on various projects in Software & Web-development<br>🤝 I’m looking for help with Cyber Security<br>🌱 I’m currently learning Python<br>💬 Ask me creative ways to solve a problem<br>⚡ Fun fact I like to work on convenience tools and also sometimes pull pranks on people, check my "Society-Fund-Management" repo you will love it 😁
+🔭 I’m currently working on various Cyber Security & Utility Tools<br>👯 I’m looking to collaborate on various projects in Cybersecurity <br>🤝 I’m looking for Carrier Cyber Security<br>💬 Ask me creative ways to solve a problem<br>⚡ Fun fact I like to work on convenience tools and also sometimes pull pranks on people, check my "Society-Fund-Management" repo you will love it 😁
 
 
 ## 🌐 Socials:
